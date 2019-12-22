@@ -1,3 +1,3 @@
 # TicTacToe
 
-TicTacToe game created with HTML, CSS and JavaScript, using the minimax algorithm as Artificial Intelligence.
+TicTacToe game made with HTML, CSS and used JavaScript to implement a simple unbeatable Artificial Intelligence algorithm called minimax.
